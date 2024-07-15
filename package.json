@@ -1,0 +1,15 @@
+{
+  "name": "nasa_apod",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "bun index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^20.14.10"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
