@@ -18,16 +18,18 @@ def get_apod(api_key):
     return response.json()
 
 def update_readme(apod_data, readme_path="README.md"):
-    """Updates the README file with the APOD data."""
+    """Updates the README file with the APOD data and last updated timestamp."""
     with open(readme_path, "r") as f:
         readme_content = f.read()
-
     # Find and replace the APOD section in the README
     start_marker = "<!-- APOD Start -->"
     end_marker = "<!-- APOD End -->"
-    apod_section = f"{start_marker}\n{apod_data['date']}: {apod_data['title']}\n![{apod_data['title']}]({apod_data['url']})\n{apod_data['explanation']}\n{end_marker}"
+    
+    # Generate the last updated timestamp
+    timestamp = datetime.now().strftime("%m/%d/%Y, %I:%M:%S %p (in %Z)")
+    last_updated_section = f"> _Last Updated: {timestamp}_"
+    apod_section = f"{start_marker}\n{apod_data['date']}: {apod_data['title']}\n![{apod_data['title']}]({apod_data['url']})\n{apod_data['explanation']}\n{last_updated_section}\n{end_marker}"
     updated_readme = readme_content.split(start_marker)[0] + apod_section + readme_content.split(end_marker)[1]
-
     with open(readme_path, "w") as f:
         f.write(updated_readme)
 
