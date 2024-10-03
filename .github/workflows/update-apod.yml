@@ -3,6 +3,10 @@ name: Update APOD
 on:
   schedule:
     - cron: '0 * * * *' # Run every minute
+    
+permissions:
+  contents: write  # Allow push permissions to the repository
+
 
 jobs:
   update-readme:
