@@ -2,7 +2,7 @@ name: Update APOD
 
 on:
   schedule:
-    - cron: '0 * * * *' # Run every minute
+    - cron: '0 8 * * *'  # Run every day at 8 AM UTC
     
 permissions:
   contents: write  # Allow push permissions to the repository
