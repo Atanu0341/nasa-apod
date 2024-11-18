@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2024-11-17: LDN 1471: A Windblown Star Cavity
-![LDN 1471: A Windblown Star Cavity](https://apod.nasa.gov/apod/image/2411/LDN1471_HubbleSchmidt_960.jpg)
-What is the cause of this unusual parabolic structure?  This illuminated cavity, known as LDN 1471, was created by a newly forming star, seen as the bright source at the peak of the parabola.  This protostar is experiencing a stellar outflow which is then interacting with the surrounding material in the Perseus Molecular Cloud, causing it to brighten.  We see only one side of the cavity -- the other side is hidden by dark dust.  The parabolic shape is caused by the widening of the stellar-wind blown cavity over time. Two additional structures can also be seen either side of the protostar; these are known as Herbig-Haro objects, again caused by the interaction of the outflow with the surrounding material.  What causes the striations on the cavity walls, though, remains unknown.  The featured image was taken by NASA and ESA’s Hubble Space Telescope after an original detection by the Spitzer Space Telescope.   Explore Your Universe: Random APOD Generator
-> _Last Updated: 11/17/2024, 08:10:18 AM (in )_
+2024-11-18: Stars and Dust in the Pacman Nebula
+![Stars and Dust in the Pacman Nebula](https://apod.nasa.gov/apod/image/2411/BokMan_Loro_960.jpg)
+Stars can create huge and intricate dust sculptures from the dense and dark molecular clouds from which they are born.  The tools the stars use to carve their detailed works are high energy light and fast stellar winds.  The heat they generate evaporates the dark molecular dust as well as causing ambient hydrogen gas to disperse and glow.   Pictured here, a new open cluster of stars designated IC 1590 is nearing completion around the intricate interstellar dust structures in the emission nebula  NGC 281, dubbed the Pac-man Nebula because of its overall shape.  The dust cloud just above center is classified as a  Bok Globule as it may gravitationally collapse and form a star -- or stars. The Pacman Nebula lies about 10,000 light years away toward the constellation of Cassiopeia.
+> _Last Updated: 11/18/2024, 08:12:50 AM (in )_
 <!-- APOD End -->
