@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2025-02-14: A Cosmic Rose: NGC 2237 in Monoceros
-![A Cosmic Rose: NGC 2237 in Monoceros](https://apod.nasa.gov/apod/image/2502/RosetteNeb1024.jpg)
-The Rosette Nebula, NGC 2237, is not the only cosmic cloud of gas and dust to evoke the imagery of flowers, but it is probably the most famous.  At the edge of a large molecular cloud in Monoceros some 5,000 light years away, the petals of this cosmic rose are actually a stellar nursery. The lovely, symmetric shape is sculpted by the winds and radiation from its central cluster of hot young, O-type stars. Stars in the energetic cluster, cataloged as NGC 2244, are only a few million years young, while the central cavity in the Rosette Nebula, is about 50 light-years in diameter. The nebula can be seen with a small telescope toward the constellation of Monoceros, the Unicorn. This natural appearing telescopic portrait of the Rosette Nebula was made using broadband color filters, but sometimes roses aren't red.
-> _Last Updated: 02/14/2025, 08:11:15 AM (in )_
+2025-02-15: Parhelia at Abisko
+![Parhelia at Abisko](https://apod.nasa.gov/apod/image/2502/_D8A2600d_1024.jpg)
+Three suns seem to hug the horizon in this otherworldly winterscape. But the evocative scene was captured during a February 3rd snowmobile exploration of the mountainous region around Abisko National Park, northern Sweden, planet Earth. The two bright spots on either side of Earth's Sun are parhelia (singular parhelion), also known as mock suns or sun dogs. The parhelia are caused by hexagonal ice crystals suspended in the hazy atmosphere that reflect and refract sunlight. Commonly seen in winter and at high latitudes, the bright parhelia lie along the visible 22 degree ice halo of the Sun.
+> _Last Updated: 02/15/2025, 08:09:53 AM (in )_
 <!-- APOD End -->
