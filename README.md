@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2025-03-20: The Solar Eclipse Analemma Project
-![The Solar Eclipse Analemma Project](https://apod.nasa.gov/apod/image/2503/HunterWells_submission3-3labelled1024.jpg)
-Recorded from 2024 March 10, to 2025 March 1, this composited series of images reveals a pattern in the seasonal drift of the Sun's daily motion through planet Earth's sky. Known to some as an analemma, the figure-eight curve was captured in exposures taken on the indicated dates only at 18:38 UTC from the exact same location south of Stephenville, Texas. The Sun's position on the 2024 solstice dates of June 20 and December 21 would be at the top and bottom of the curve and correspond to the astronomical beginning of summer and winter in the north. Points that lie along the curve half-way between the solstices would mark the equinoxes. The 2024 equinox on September 22, and in 2025 the equinox on March 20 (today) are the start of northern fall and spring. And since one of the exposures was made on 2024 April 8 from the Stephenville location at 18:38:40 UTC, this analemma project also reveals the solar corona in planet Earth's sky during a total solar eclipse.
-> _Last Updated: 03/20/2025, 08:12:13 AM (in )_
+2025-03-22: SuperCam Target on Ma'az
+![SuperCam Target on Ma'az](https://apod.nasa.gov/apod/image/2503/pia24493-2-1041.jpg)
+What's the sound of one laser zapping? There's no need to consult a Zen master to find out, just listen to the first acoustic recording of laser shots on Mars. On Mars Rover Perseverance mission sol 12 (March 2, 2021) the SuperCam instrument atop the rover's mast zapped a rock dubbed Ma'az 30 times from a range of about 3.1 meters. Its microphone recorded the soft staccato popping sounds of the rapid series of SuperCam laser zaps. Shockwaves created in the thin Martian atmosphere as bits of rock are vaporized by the laser shots make the popping sounds, sounds that offer clues to the physical structure of the target. This SuperCam close-up of the Ma'az target region is 6 centimeters (2.3 inches) across. Ma'az means Mars in the Navajo language.
+> _Last Updated: 03/22/2025, 08:10:34 AM (in )_
 <!-- APOD End -->
