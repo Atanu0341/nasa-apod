@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2025-05-05: Planet Lines Across Water
-![Planet Lines Across Water](https://apod.nasa.gov/apod/image/2505/PlanetLines_Hervas_960.jpg)
-What’s causing those lines? Objects in the sky sometimes appear reflected as lines across water — but why? If the water’s surface is smooth, then reflected objects would appear similarly -- as spots. But if the water is choppy, then there are many places where light from the object can reflect off the water and still come to you -- and so together form, typically, a line. The same effect is frequently seen for the Sun just before sunset and just after sunrise. Pictured about 10 days ago in Ibiza, Spain, images of the setting Moon, Venus (top), and Saturn (right, faint) were captured both directly and in line-reflected forms from the Mediterranean Sea. The other bright object on the right with a water-reflected line is a beacon on a rock to warn passing boats.   Explore Your Universe: Random APOD Generator
-> _Last Updated: 05/05/2025, 08:14:02 AM (in )_
+2025-05-06: The Doubly Warped World of Binary Black Holes
+![The Doubly Warped World of Binary Black Holes](https://www.youtube.com/embed/rQcKIN9vj3U?rel=0)
+If one black hole looks strange, what about two? Light rays from accretion disks around a pair of orbiting supermassive black holes make their way through the warped space-time produced by extreme gravity in this detailed computer visualization.  The simulated accretion disks have been given different false color schemes, red for the disk surrounding a 200-million-solar-mass black hole, and blue for the disk surrounding a 100-million-solar-mass black hole.  For these masses, though, both accretion disks would actually emit most of their light in the ultraviolet.  The video allows us to see both sides of each black hole at the same time.  Red and blue light originating from both black holes can be seen in the innermost ring of light, called the photon sphere, near their event horizons.  In the past decade, gravitational waves from black hole collisions have actually been detected, although the coalescence of supermassive black holes remains undiscovered.   Hole New Worlds: It's Black Hole Week at NASA!
+> _Last Updated: 05/06/2025, 08:13:54 AM (in )_
 <!-- APOD End -->
