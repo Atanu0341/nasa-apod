@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2025-08-15: Moonlight, Planets, and Perseids
-![Moonlight, Planets, and Perseids](https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125v1.jpg)
-In the predawn sky on August 13, two planets were close. And despite the glare of a waning gibbous Moon, bright Jupiter and even brighter Venus were hard to miss. Their brilliant close conjunction is posing above the eastern horizon in this early morning skyscape. The scene was captured in a single exposure from a site near Gansu, China, with light from both planets reflected in the still waters of a local pond. Also seen against the moonlight were flashes from the annual Perseid Meteor Shower, known for its bright, fast meteors. Near the much anticipated peak of activity, the shower meteors briefly combined with the two planets for a celestial spectacle even in moonlit skies.
-> _Last Updated: 08/15/2025, 08:13:58 AM (in )_
+2025-08-18: NGC 1309: A Useful Spiral Galaxy
+![NGC 1309: A Useful Spiral Galaxy](https://apod.nasa.gov/apod/image/2508/Spiral1309_HubbleGalbany_960.jpg)
+This galaxy is not only pretty -- it's useful.  A gorgeous spiral some 100 million light-years distant, NGC 1309 lies on the banks of the constellation of the River (Eridanus). NGC 1309 spans about 30,000 light-years, making it about one third the size of our larger Milky Way galaxy. Bluish clusters of young stars and dust lanes are seen to trace out NGC 1309's spiral arms as they wind around an older yellowish star population at its core. Not just another pretty face-on spiral galaxy, observations of NGC 1309's two recent supernovas and multiple  Cepheid variable stars contribute to the calibration of the expansion of the Universe. Still, after you get over this beautiful galaxy's grand design, check out the array of more distant background galaxies also recorded in this sharp image from the  Hubble Space Telescope.
+> _Last Updated: 08/18/2025, 08:15:39 AM (in )_
 <!-- APOD End -->
