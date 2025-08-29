@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2025-08-28: Galaxies, Stars, and Dust
-![Galaxies, Stars, and Dust](https://apod.nasa.gov/apod/image/2508/NGC7497_Robert_Eder1024.jpg)
-This well-composed telescopic field of view covers over a Full Moon on the sky toward the high-flying constellation Pegasus. Of course the brighter stars show diffraction spikes, the commonly seen effect of internal supports in reflecting telescopes, and lie well within our own Milky Way galaxy. The faint but pervasive clouds of interstellar dust ride above the galactic plane and dimly reflect the Milky Way's starlight. Known as galactic cirrus or integrated flux nebulae they are associated with the Milky Way's molecular clouds. In fact, the diffuse cloud cataloged as MBM 54, less than a thousand light-years distant, fills the scene. The galaxy seemingly tangled in the dusty cloud is the striking spiral galaxy NGC 7497. It's some 60 million light-years away, though. Seen almost edge-on near the center of the field, NGC 7497's own spiral arms and dust lanes echo the colors of stars and dust in our own Milky Way.
-> _Last Updated: 08/28/2025, 08:13:11 AM (in )_
+2025-08-29: A Dark Veil in Ophiuchus
+![A Dark Veil in Ophiuchus](https://apod.nasa.gov/apod/image/2508/DarkVeil_v2p1024.jpeg)
+The diffuse hydrogen-alpha glow of emission region Sh2-27 fills this cosmic scene. The field of view spans nearly 3 degrees across the nebula-rich constellation Ophiuchus toward the central Milky Way. A Dark Veil of wispy interstellar dust clouds draped across the foreground is chiefly identified as LDN 234 and LDN 204 from the 1962 Catalog of Dark Nebulae by American astronomer Beverly Lynds. Sh2-27 itself is the large but faint HII region surrounding runaway O-type star Zeta Ophiuchi. Along with the Zeta Oph HII region, LDN 234 and LDN 204 are likely 500 or so light-years away. At that distance, this telescopic frame would be about 25 light-years wide.
+> _Last Updated: 08/29/2025, 08:12:48 AM (in )_
 <!-- APOD End -->
