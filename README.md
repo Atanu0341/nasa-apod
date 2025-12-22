@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2025-12-20: A Solstice Sun Tattoo
-![A Solstice Sun Tattoo](https://apod.nasa.gov/apod/image/2512/tatooimg_145020251217_1024.jpeg)
-The word solstice is from the Latin for Sun and to pause or stand still. And in the days surrounding a solstice the Sun's annual north-south drift in planet Earth's sky does slow down, pause, and then reverse direction. So near the solstice the daily path of the Sun through the sky really doesn't change much. In fact, near the December solstice, the Sun's consistent, low arc through northern hemisphere skies, along with low surface temperatures, has left a noticeable imprint on this path to the mountain town of Peaio in northern Italy. The morning frost on the road has melted away only where the sunlight was able to reach the ground. But it remains in the areas persistently shadowed by the fence, tattooing in frost an image of the fence on the asphalt surface.
-> _Last Updated: 12/20/2025, 08:12:47 AM (in )_
+2025-12-22: Sunset Solstice over Stonehenge
+![Sunset Solstice over Stonehenge](https://apod.nasa.gov/apod/image/2512/StonehengeSolstice_Dury_960.jpg)
+Yesterday the Sun reached its southernmost point in planet Earth's sky.  Called a solstice, many cultures mark yesterday's date as a change of seasons -- from autumn to winter in Earth's Northern Hemisphere and from spring to summer in Earth's Southern Hemisphere.  The featured image was taken just before the longest night of the 2025 northern year at Stonehenge in United Kingdom. There, through stones precisely placed 4,500 years ago, a 4.5 billion year old large glowing orb is seen setting. Even given the precession of the Earth's rotational axis over the millennia, the Sun continues to set over Stonehenge in an astronomically significant way.
+> _Last Updated: 12/22/2025, 08:16:14 AM (in )_
 <!-- APOD End -->
