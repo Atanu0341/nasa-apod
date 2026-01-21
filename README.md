@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2026-01-20: Io in True Color
-![Io in True Color](https://apod.nasa.gov/apod/image/2601/iotruecolor_galileo_960.jpg)
-The strangest moon in the Solar System is bright yellow.  The featured picture, an attempt to show how Io would appear in the "true colors" perceptible to the average human eye, was taken in 1999 July by the Galileo spacecraft that orbited Jupiter from 1995 to 2003.  Io's colors derive from sulfur and molten silicate rock.  The unusual surface of Io is kept very young by its system of active volcanoes.  The intense tidal gravity of Jupiter stretches Io and damps wobbles caused by Jupiter's other Galilean moons.  The resulting friction greatly heats Io's interior, causing  molten rock to explode through the surface.  Io's volcanoes are so active that they are effectively turning the whole moon inside out.  Some of Io's volcanic lava is so hot it glows in the dark.
-> _Last Updated: 01/20/2026, 08:16:59 AM (in )_
+2026-01-21: Barred Spiral Galaxy NGC 1365 from Webb
+![Barred Spiral Galaxy NGC 1365 from Webb](https://apod.nasa.gov/apod/image/2601/JWSTMIRI_ngc1365_1024.png)
+A mere 56 million light-years distant toward the southern constellation Fornax, NGC 1365 is an enormous barred spiral galaxy about 200,000 light-years in diameter. That's twice the size of our own barred spiral Milky Way. This sharp image from the James Webb Space Telescope's Mid-Infrared Instrument (MIRI) reveals stunning details of this magnificent spiral in infrared light. Webb's field of view stretches about 60,000 light-years across NGC 1365, exploring the galaxy's core and bright newborn star clusters. The intricate network of dusty filaments and bubbles is created by young stars along spiral arms winding from the galaxy's central bar. Astronomers suspect the gravitational field of NGC 1365's bar plays a crucial role in the galaxy's evolution, funneling gas and dust into a star-forming maelstrom and ultimately feeding material into the active galaxy's central, supermassive black hole.
+> _Last Updated: 01/21/2026, 08:17:08 AM (in )_
 <!-- APOD End -->
