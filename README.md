@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2026-01-31: Artemis I: Flight Day 13
-![Artemis I: Flight Day 13](https://apod.nasa.gov/apod/image/2601/art001e000672-orig1024c.jpg)
-On flight day 13 (November 28, 2022) of the Artemis 1 mission, the Orion spacecraft reached its maximum distance from Earth. At over 430,000 kilometers from Earth, its distant retrograde orbit also puts Orion nearly 70,000 kilometers from the Moon. In the same field of view in this video frame from flight day 13, planet and large natural satellite even appear about the same apparent size from the spacecraft's perspective. On flight day 26 (December 11, 2022), the uncrewed spacecraft splashed down on its home world concluding the historic Artemis I mission. The Artemis II mission, carrying 4 astronauts around the moon and back again, will launch no earlier than February 8.
-> _Last Updated: 01/31/2026, 08:15:06 AM (in )_
+2026-02-01: Galle: Happy Face Crater on Mars
+![Galle: Happy Face Crater on Mars](https://apod.nasa.gov/apod/image/2602/MarsHappyFace_mgs_960.jpg)
+Mars has put on a happy face.  The Martian crater Galle is famous because it has internal markings that make it look like a face that is both smiling and winking.  These markings were originally discovered in the 1970s in pictures taken by the Viking Orbiter.  The Mars Global Surveyor (MGS) spacecraft that orbited Mars from 1996 to 2006 captured the featured picture.  Happy Face Crater and its iconic features were formed by chance billions of years ago when a city-sized asteroid slammed into the Martian surface.  All rocky planets and moons in our Solar System show impact craters, with the highest number of craters found on Earth's Moon and the planet Mercury. Earth and Venus would show the most, though, were it not for weather and erosion.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+> _Last Updated: 02/01/2026, 08:18:31 AM (in )_
 <!-- APOD End -->
