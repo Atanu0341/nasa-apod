@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2026-02-26: Webb and Hubble: IC 5332
-![Webb and Hubble: IC 5332](https://apod.nasa.gov/apod/image/2602/IC5332webb2209c_1024.jpg)
-What does the universe look like through infrared goggles? Our eyes can only see visible light, but astronomers want to see more. Today’s APOD shows spiral galaxy IC 5332 as seen by two NASA telescopes: Webb in mid-infrared and Hubble in ultraviolet and visible light. To toggle between the two space-based views just slide your cursor over the image (or follow this link). The Hubble image highlights the spiral arms of the galaxy separated by dark regions, whereas the Webb image reveals a finer, more tangled structure. Interstellar dust scatters and absorbs light from the stars in the galaxy, causing the dark dust lanes in the Hubble image, and then emits heat in infrared light, so dust glows in this Webb image. The Mid-InfraRed Instrument on Webb needs to operate at a chilling temperature of -266ºC (or - 447ºF), otherwise it would detect infrared radiation from the telescope itself. Combining these observations, astronomers connect the “small scale” of gas and stars to the truly large scale of galactic structure and evolution.
-> _Last Updated: 02/26/2026, 08:32:20 AM (in )_
+2026-02-27: Sharpless 249 and the Jellyfish Nebula
+![Sharpless 249 and the Jellyfish Nebula](https://apod.nasa.gov/apod/image/2602/JellyfishBeecroft_final1_1024.jpg)
+Normally faint and elusive, the Jellyfish Nebula is caught in this alluring telescopic field of view. Floating in the interstellar sea, the nebula is anchored right and left by two bright stars, Mu and Eta Geminorum, at the foot of the celestial twins. The Jellyfish Nebula itself is right of center, seen as a brighter arcing ridge of emission with dangling tentacles. In fact, this cosmic jellyfish is part of bubble-shaped supernova remnant IC 443, the expanding debris cloud from a massive star that exploded. Light from the explosion first reached planet Earth over 30,000 years ago. Like its cousin in astrophysical waters the Crab Nebula supernova remnant, the Jellyfish Nebula is known to harbor a neutron star, the ultradense remnant of the collapsed stellar core. An emission nebula cataloged as Sharpless 249 fills the field at the upper left. The Jellyfish Nebula is about 5,000 light-years away. At that distance, this image would be about 300 light-years across.
+> _Last Updated: 02/27/2026, 08:28:21 AM (in )_
 <!-- APOD End -->
