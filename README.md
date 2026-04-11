@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2026-04-09: Destruction of Comet C/2026 A1 (MAPS)
-![Destruction of Comet C/2026 A1 (MAPS)](https://apod.nasa.gov/apod/image/2604/comet_plunge.mp4)
-As the crew of Artemis II travelled towards the Moon this week, Comet C/2026 A1 (MAPS) was expected to have its closest approach to the Sun on Monday. At this point, comet and Sun would be closer than half the distance separating the Earth and Moon. The comet did not survive; the featured video was made with 40 hours of data and shows the comet plunging toward the Sun, like a moth to a flame. Observing the comet so close to our bright star requires a coronagraph, an instrument that blocks the Sun and is used for studies of its corona. This composite video combines, starting from the outside, views from: the wider angle coronagraph (blue) and the narrower angle coronagraph (red), both on NASA's Solar and Heliospheric Observatory, and NASA's Solar Dynamics Observatory (black). We can see the comet approaching the sun, stretching, disappearing behind the coronagraph's occulting disk and reappearing as a cloud of debris that dissipates.
-> _Last Updated: 04/09/2026, 08:56:45 AM (in )_
+2026-04-11: Artemis II: Flight Day 6
+![Artemis II: Flight Day 6](https://apod.nasa.gov/apod/image/2604/art002e009567_1024.jpg)
+On flight day 6 (April 6) the Artemis II mission achieved a historic lunar flyby. Rounding the lunar far side, the deep space maneuver marked humanity's first venture to the Moon since Apollo 17 in 1972. The Orion spacecraft Integrity reached a maximum distance of nearly 407,000 kilometers, and the Artemis II crew, Reid Wiseman, Victor Glover, and Christina Koch, and Jeremy Hansen, set the record for the farthest distance from Earth traveled by any human since the Apollo 13 crew in 1970. From behind the Moon on flight day 6, a solar array wing camera recorded this space age selfie, framing the spacecraft and lunar far side. Planet Earth, home to the Artemis II crew, is the small, bright crescent beyond the lunar limb. The crew safely returned home on Artemis II mission flight day 10.   Artemis II: Splashdown
+> _Last Updated: 04/11/2026, 08:29:10 AM (in )_
 <!-- APOD End -->
