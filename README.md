@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2026-04-20: Comet R3 PanSTARRS over a Himalayan Valley
-![Comet R3 PanSTARRS over a Himalayan Valley](https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_960.jpg)
-The best way to see comet R3 PanSTARRS’s long tail is with a camera. This week, the recently brightened comet appears in northern skies to the east just before dawn, but is only barely visible to the unaided eye. The many-degree ion tail captured on long duration camera exposures is not unusual for a comet - it is primarily due to the Earth's nearly sideways view of the tail as it points away from the Sun.  In the featured image taken last week, Comet C/2025 R3 (PanSTARRS) showed off its flowing tail through a valley between two peaks in the Himalayan mountains of India.   The comet passed its closest to the Sun yesterday. As it nears its closest approach to Earth next week, a bushy dust tail may become visible.  The comet is slowly moving out of northern skies and by the end of the month will be visible after sunset in southern skies as it fades and leaves our Solar System.    Growing Gallery: Comet R3 PanSTARRS in 2026
-> _Last Updated: 04/20/2026, 09:45:56 AM (in )_
+2026-04-23: Large Scale Structure of the Universe
+![Large Scale Structure of the Universe](https://apod.nasa.gov/apod/image/2604/noirlab2610c_1024.jpg)
+This is a map of the universe. The Dark Energy Spectroscopic Instrument (DESI) at Kitt Peak National Observatory, Arizona, has finished its five-year survey. It observed more than 47 million galaxies and quasars and created a 3D map centered on the Earth. Today's featured image shows a thin slice of these data: the black gaps indicate where our Galaxy obscures distant objects. The feathery web in the inset shows the large scale structure of the universe. Light of the most distant galaxies shown here travelled for 11 billion years to reach the Earth. Galaxies cluster throughout cosmic history under the competing influences of gravity and dark energy, responsible for the accelerated expansion of the universe. Analysis of early DESI results hinted at the possibility that dark energy, described as a cosmological constant by Albert Einstein, may not be constant after all. But we still have to wait for the analysis of the now complete dataset. The nature of dark energy is the biggest mystery of cosmology.
+> _Last Updated: 04/23/2026, 09:16:08 AM (in )_
 <!-- APOD End -->
