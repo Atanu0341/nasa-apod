@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2026-06-18: Possible Supernova Remnant in Galactic Center
-![Possible Supernova Remnant in Galactic Center](https://apod.nasa.gov/apod/image/2606/sgrc.jpg)
-Do you see that blue blob to the lower right of the image center?   Astronomers think that it shows where a massive star exploded as a supernova whose light reached Earth 1,700 years ago.   The image combines optical data from the PanSTARRS telescopes in Hawaii (background stars in red, green, and blue), radio from the MeerKAT telescope in South Africa (large red cloud) and X-rays from NASA's Chandra X-ray Observatory and ESA’s XMM-Newton (shown in blue).   The large cloud is a star forming region called Sagittarius C, which is approximately 50 light-years in extent and about 26,000 light-years from Earth.   It is located only about 260 light-years from the supermassive black hole in the center of the Galaxy (off to the left of the image).   If the blue blob is confirmed to be a supernova remnant, it would be one of the closest ever discovered to the Galactic Center.   In this dense region, the deaths of massive stars are connected to the birth of new stars through gas and magnetic fields in a complex way.
-> _Last Updated: 06/18/2026, 11:42:06 AM (in )_
+2026-06-20: Daytime Moon Meets Evening Star
+![Daytime Moon Meets Evening Star](https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17_1024.jpg)
+Venus is now appearing on the celestial stage as Earth's brilliant evening star, performing with the Moon, other wandering planets, and bright stars in western skies. For evening sky gazers on June 17, the celestial beacon rose after sunset close by a young, slender, crescent Moon. But from some locations the Moon could be seen to occult or pass in front of Venus. And from a backyard observatory in southern British Columbia, Canada, the lunar occultation was played out in daylight. This stunning telescopic snapshot captured a scene in dramatically cloudy skies, following Venus' hour long disappearance, as the evening star emerged beyond the bright lunar limb.
+> _Last Updated: 06/20/2026, 10:23:31 AM (in )_
 <!-- APOD End -->
