@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2026-07-21: Turtle Rock on Mars
-![Turtle Rock on Mars](https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_1080.jpg)
-Is this a fossilized turtle on Mars?  No.  Although resembling a large Earth tortoise, this is a layered rock outcrop on Mars that is estimated to span about 15 meters, making it much larger than turtles on Earth. NASA’s robotic Curiosity rover came across this unusual mound, dubbed Miraflores, last month during its 4922nd Martian day exploring Mars.  The small butte may survive because it was somehow more resistant to erosion than surrounding rock.  More recent wind has now covered its top with orange Martian sand.  Below the top shell, many layers of stratified rock are visible, possibly indicating a long history of intermittent wind-blown sand being deposited and then hardened by ground water.  Similar wind-eroded layered landforms, such as yardangs in the Qaidam Desert of China, exist here on Earth. Curiosity and its companion rover Perseverance continue to investigate the ancient history of Mars as well as searching for signs of primeval life.
-> _Last Updated: 07/21/2026, 10:11:32 AM (in )_
+2026-07-22: The Corona Australis Molecular Cloud and the Chandelier Cluster
+![The Corona Australis Molecular Cloud and the Chandelier Cluster](https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg)
+The Southern Crown (Corona Australis) dazzles with young and ancient celestial jewels. The Corona Australis Cloud is a collage of reflection and emission nebulae on the left of today’s image. At 430 light years away, this cloud is one of the closest star-forming regions to Earth. It contains gas cool enough (-260 Celsius or -440 Fahrenheit) to collapse into protostars. Recently formed stars paint blue hues across the cloud as their light reflects off surrounding material. The waltz of the R Coronae Australis binary system stirs up the nebula NGC 6729. The younger of the pair ionizes nearby gas with its ultraviolet light, causing it to glow. The Chandelier Cluster (NGC 6723) dangles from the top right, but is actually tens of thousands of light years farther away than its apparent star-forming neighbor. While NGC 6723 experienced multiple periods of star formation creating slightly younger stars, the chandelier twinkles with stars almost as old as the universe.
+> _Last Updated: 07/22/2026, 10:11:10 AM (in )_
 <!-- APOD End -->
