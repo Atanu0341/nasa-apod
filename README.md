@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2026-08-09: Contemplating the Sun
-![Contemplating the Sun](https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg)
-Have you contemplated your home star recently?  Featured here, a Sun partially eclipsed on the top left by the Moon is also seen eclipsed by earthlings contemplating the eclipse below.  This spectacular menagerie of silhouettes was taken in 2012 from the Glen Canyon National Recreation Area near Page, Arizona, USA, where park rangers and astronomers expounded on the unusual event to interested gatherers.  Also, faintly visible on the Sun's disk, just to the lower right of the dark Moon's disk, is a group of sunspots.  A new solar eclipse will occur this week and give many people in northern North America, Europe, and northwestern Africa a new chance to contemplate a partially eclipsed Sun. A thin swath of Earth from Greenland to Portugal will further experience a total solar eclipse. An open question is whether any meteors from the peaking Perseids will be visible during totality.
-> _Last Updated: 08/09/2026, 08:27:23 AM (in )_
+2026-08-11: Six Moons of Saturn
+![Six Moons of Saturn](https://apod.nasa.gov/apod/image/2608/2026-08-05-0609_7-SaturnSystem_c.jpg)
+How many moons does Saturn have? While the total will likely continue to grow, as of June 2026 the ringed gas giant had 293 confirmed moons. That's easily more than any other planet of the Solar System, including ruling gas giant Jupiter with a mere 115 confirmed moons. Most of Saturn's known moons are small, irregular satellites. Many are only few kilometers to a fraction of a kilometer across and grouped in tilted outer orbits. Six of its largest satellites can be seen here, though, in this sharp telescopic Saturnian family portrait taken on August 5. Larger than Earth's Moon and even slightly larger than inner planet Mercury, Titan, with a diameter of 5,150 kilometers, is at lower right. You can also spot icy major moons Mimas, Tethys, Enceladus, Dione, and Rhea in the frame. Saturn's first known natural satellite, Titan was discovered in 1655 by Dutch astronomer Christiaan Huygens. During the space age Voyager and Cassini discoveries have added to the swelling ranks of Saturnian moons.  NASA Stream: August 12 Total Solar Eclipse.
+> _Last Updated: 08/11/2026, 08:41:07 AM (in )_
 <!-- APOD End -->
