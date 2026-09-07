@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2026-09-06: Pluto in Enhanced Color
-![Pluto in Enhanced Color](https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_960.jpg)
-Pluto is more colorful than we can see. Color data and high-resolution images of our Solar System's most famous dwarf planet, taken by the robotic New Horizons spacecraft during its flyby in 2015 July, have been digitally combined to give an enhanced-color view of this ancient world sporting an unexpectedly young surface. The featured enhanced color image is not only esthetically pretty but scientifically useful, making surface regions of differing chemical composition visually distinct. For example, the light-colored heart-shaped Tombaugh Regio on the lower right is clearly shown here to be divisible into two regions that are geologically different, with the leftmost lobe, Sputnik Planitia, also appearing unusually smooth. After Pluto, New Horizons continued on, shooting  past asteroid Arrokoth in 2019 with enough speed to escape our Solar System completely.
-> _Last Updated: 09/06/2026, 11:47:15 AM (in )_
+2026-09-07: The Pelican Nebula in Gas, Dust, and Stars
+![The Pelican Nebula in Gas, Dust, and Stars](https://apod.nasa.gov/apod/image/2609/Pelican_Killion_960.jpg)
+The Pelican Nebula is slowly being transformed.  IC 5070 (an official designation) is divided from the larger North America Nebula by a molecular cloud filled with dark dust.  The deep featured picture from Utah, USA incorporates 25 hours of exposure and brings out great details of this filamentary dust. The Pelican Nebula receives much study because it is a particularly active mix of star formation and evolving gas clouds.  The light from young energetic stars is slowly transforming the cold gas to hot gas, with the advancing boundary between the two, known as an ionization front, visible in bright orange on the upper right. Particularly dense tentacles of cold gas remain.  Millions of years from now, the Pelican Nebula, bounded by dark nebula LDN 935, might no longer be known as the Pelican, as the balance and placement of stars and gas will surely leave something that appears completely different.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+> _Last Updated: 09/07/2026, 01:44:40 PM (in )_
 <!-- APOD End -->
