@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2026-10-02: NASA Science
+2026-10-05: NASA Science
 ![NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
-What does it take to image hundreds of nebulas? Today’s image contains the entire Sharpless Catalog of H II Regions, totaling 313 objects. Zoom in and explore! You may spot fan favorites like the Eagle (Sh2-49), Heart (Sh2-190), and Orion (Sh2-281) Nebulas. Despite its name, this catalog contains more than the glow of ionized hydrogen that makes up H II regions. There are planetary nebulas (the Medusa Nebula, Sh2-274) and supernova remnants (the Spaghetti Nebula, Sh2-240) as well. Astrophotographer Bing Xin traversed the dark skies of Eastern China and Inner Mongolia to catch them all. Narrowband filters that primarily capture light from ionized hydrogen and oxygen as well as red-green-blue filters were used. Each object took 2 to 6 hours to capture, with the entire catalog taking around 800 hours to complete! Which object is your favorite?APOD's email for image submissions has changed. Please see: APOD SubmissionsTomorrow's picture: just Curiosity						
-> _Last Updated: 10/02/2026, 02:14:57 PM (in )_
+A deep image of the Sombrero galaxy reveals surprises. M104 is named the Sombrero galaxy because, on shorter exposures, it looks like a hat. A key defining feature of this huge galaxy is a dark brim of dust that circles the disk galaxy's center. A much longer exposure, however, brings up a hairy past where a bright, hazy halo is revealed that extends well past the central disk and contains many unresolved stars. Surprisingly, in this stellar haze, structures can be seen that include a diagonal ring. These structures and tidal streams provide fresh evidence that M104 had a violent past and is surely the result of collisions and mergers of smaller galaxies. Light takes about 30 million years to reach us from the Sombrero galaxy, which fully spans about 150 thousand light years across. The featured image was taken over seven days in mid-2026 from Namibia.Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)Tomorrow's picture: a smile						
+> _Last Updated: 10/05/2026, 04:31:00 PM (in )_
 <!-- APOD End -->
