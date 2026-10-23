@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2026-10-20: NASA Science
+2026-10-23: NASA Science
 ![NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
- This is an unusual rainbow. For one thing, the rainbow is not complete, appearing only in a sunlit fan -- but that by itself is not very unusual. What is most unusual is the fake location of the Sun. The Sun appears to be toward the front, just below those hills -- but it is not. That is not how rainbows work. Rainbows involve a backward reflection from falling rain, so that the Sun must really be behind you. In this case, gaps between clouds near the setting Sun allowed rays to cross the entire sky and appear to converge in front, an unusual phenomenon called anticrepuscular rays. The photo was taken with a phone last week at sunset in Presenzano, Italy. The seemingly reverse rainbow was noticed when hanging up laundry.Tomorrow's picture: open space						
-> _Last Updated: 10/20/2026, 01:05:43 PM (in )_
+Looking toward the north from Mullion, New South Wales, Australia, the Andromeda Galaxy never gets more than a few degrees above the horizon. During the southern hemisphere spring, Andromeda is highest in the sky around midnight though. And in this telephoto scene from October 10/11, multiple exposures were used to reveal the spiral galaxy in tantalizing detail as it climbed above rolling Australian hills. Also known as M31, the Andromeda Galaxy is one of the brightest objects in the Messier catalog, but is only visible to the unaided eye as a small, faint, fuzzy patch. Digitally tracked and stacked frames were combined with a foreground shot in the deep astro-image composite to reveal the galaxy's greater extent in planet Earth's night. In the springtime night skyscape,the closest large spiral galaxy spans nearly 6 full moons.Tomorrow's picture: pixels in space
+> _Last Updated: 10/23/2026, 12:54:49 PM (in )_
 <!-- APOD End -->
