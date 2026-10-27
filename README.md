@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2026-10-24: NASA Science
+2026-10-27: NASA Science
 ![NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
-This Rosetta spacecraft selfie was snapped on October 7th, 2014. At the time the comet-chasing spacecraft was about 472 million kilometers from planet Earth, but only 16 kilometers from the surface of comet 67P/Churyumov-Gerasimenko. Looming beyond the spacecraft near the top of the frame, dust and gas stream away from the comet's curious double-lobed nucleus. Bright sunlight glints off one of Rosetta's 14 meter long solar arrays. In fact, two exposures, one short and one long, were combined to record the dramatic high contrast scene using the CIVA camera system on Rosetta's still-attached Philae lander. Its chosen primary landing site was on the visible hemisphere of the smaller lobe of the nucleus. This was the last image from Philae's camera before the lander separated from Rosetta on November 12. Shortly after separation Philae took another image looking back toward the orbiter and began its descent to the nucleus of the comet.Tomorrow's picture: dark matters
-> _Last Updated: 10/24/2026, 12:17:16 PM (in )_
+ Sometimes it's night on the ground but day in the air. As the Earth rotates to eclipse the Sun, sunset rises upfrom the ground. Therefore, at sunset on the ground, sunlight still shines on clouds above. Under usual circumstances, a pretty sunset might be visible, but unusual noctilucent clouds float so high up they can be seen well after dark. Normally too dim to be seen, they may become visible just after sunset during the summer when illuminated by sunlight from below the horizon. Noctilucent clouds are the highest clouds and are known more technically as polar mesospheric clouds. Featured here as they appeared in early August, a network of blue noctilucent clouds was captured in the distant sky above a field of green grass near Linköping, Sweden, with trees in stark silhouette across the horizon. Much about noctilucent clouds has been discovered only in the past two decades, while how they form and evolve remains a topic of active research.Tomorrow's picture: round and round						
+> _Last Updated: 10/27/2026, 01:41:25 PM (in )_
 <!-- APOD End -->
