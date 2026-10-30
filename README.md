@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2026-10-27: NASA Science
+2026-10-30: NASA Science
 ![NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
- Sometimes it's night on the ground but day in the air. As the Earth rotates to eclipse the Sun, sunset rises upfrom the ground. Therefore, at sunset on the ground, sunlight still shines on clouds above. Under usual circumstances, a pretty sunset might be visible, but unusual noctilucent clouds float so high up they can be seen well after dark. Normally too dim to be seen, they may become visible just after sunset during the summer when illuminated by sunlight from below the horizon. Noctilucent clouds are the highest clouds and are known more technically as polar mesospheric clouds. Featured here as they appeared in early August, a network of blue noctilucent clouds was captured in the distant sky above a field of green grass near Linköping, Sweden, with trees in stark silhouette across the horizon. Much about noctilucent clouds has been discovered only in the past two decades, while how they form and evolve remains a topic of active research.Tomorrow's picture: round and round						
-> _Last Updated: 10/27/2026, 01:41:25 PM (in )_
+Spooky shapes seem to haunt this dusty expanse, drifting through the night in the royal constellation Cepheus. Of course, the shapes are cosmic dust clouds visible in dimly reflected starlight. Far from your own neighborhood, they lurk above the plane of the Milky Way at the edge of the Cepheus Flare molecular cloud complex some 1,200 light-years away. Over 2 light-years across and brighter than most of the other ghostly apparitions, vdB 141 or Sh2-136 is also known as the Ghost Nebula. It lies at lower right in the starry field of view. Inside the Ghost Nebula are reddish telltale signs of dense cores collapsing in the early stages of star formation. With the eerie hue of interstellar dust reflecting bluish light from hot young stars of NGC 7023, the Iris Nebula stands out against the dark just left of center. In the broad telescopic frame, these fertile interstellar dust fields stretch almost six full moons across the sky.Tomorrow's picture: night on a spooky planet						
+> _Last Updated: 10/30/2026, 02:38:44 PM (in )_
 <!-- APOD End -->
