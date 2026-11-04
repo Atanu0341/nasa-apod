@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2026-11-02: NASA Science
+2026-11-04: NASA Science
 ![NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
-What’s causing this unusually long cloud on Mars? Known as the Arsia Mons Elongated Cloud (AMEC) and first recorded by NASA’s Viking Orbiter 2 in 1977, the strange cloud has been imaged in greater detail more recently by ESA’s robotic Mars Express spacecraft. The featured image is from 2018. The cloud forms only during spring and summer seasons and then only during morning hours. Made of water-ice, the most familiar process that causes cloud crystals to form around bits of dust would fail due to the thinness and lack of dust high in the Martian atmosphere. Leading speculation holds that dust is not involved. After the cloud forms near the volcano Arsia Mons, wind blows the cloud downstream — creating a tail that can extend over 1500 kilometers. Efforts to better understand AMECs will continue, an understanding that may bolster a more complete view of cloud formation on Earth.Tomorrow's picture: eyeing a cat						
-> _Last Updated: 11/02/2026, 05:30:21 PM (in )_
+“I see” IC 342, the Hidden Galaxy! Today’s image peers through the plane of the Milky Way, through all its gas, dust and stars, to unveil this spiral galaxy. IC 342 (or Caldwell 5) is one of the brightest members of the IC 342/Maffei group of galaxies. Located about 10 million light years away, this group is quite close to the Local Group that includes our Milky Way. Inaccurate accounting of the crowded and dusty Milky Way foreground has led to misunderstandings in IC 342’s history, including the theory that the galaxy was ejected from the Local Group. IC 342 has its own dust intermittently blocking the glow of hydrogen gas, indicating the presence of bright, young stars. Magnetic field maps of IC 342 reveal that magnetic fields may contribute substantially to one of the biggest galactic puzzles: how do spiral arms form?Tomorrow's picture: open space						
+> _Last Updated: 11/04/2026, 03:49:20 PM (in )_
 <!-- APOD End -->
