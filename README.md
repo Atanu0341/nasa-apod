@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2026-11-06: NASA Science
+2026-11-12: NASA Science
 ![NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
-It is time to say goodbye to NASA's Neil Gehrels Swift Observatory. After nearly 22 years of service, the satellite re-entered Earth's atmosphere on November 4 at 7:39 EST over the North Sumatra region of Indonesia. The featured image is a mosaic created in 2018 using the first one million images captured by the satellite's Ultraviolet/Optical Telescope. Swift had a combination of instruments, including an X-ray telescope and a gamma-ray telescope, that worked together to enable humanity to study, in unprecedented detail, the fastest and most energetic explosions in the universe. The most recent solar maximum accelerated the decay of the satellite's orbit. An innovative mission to rescue Swift by boosting its orbit was not successful. Swift burned on reentry like a shooting star, but the impressive data acquired by the telescope over its mission will continue to bring light to the mysteries of the cosmos for years to come. May it keep inspiring new missions to boldly go into space, explore new data and seek out new science.
-> _Last Updated: 11/06/2026, 03:26:31 PM (in )_
+Not all those who wander are lost. A night sky example is that planets wander, and in fact the very word "planet" comes from "wandering star" in Greek. As planets shift relative to fixed stars, they may appear from our perspective to get closer to other astronomical objects. Such meetings are called conjunctions. They don't happen by chance, but follow the precise laws of celestial mechanics. This peaceful image, captured in Poland, shows the crescent Moon above the Tatra Mountains, and bright Venus close by, a little lower in the horizon. The bright star to the left of Venus is Spica in the constellation of Virgo, the Maiden. Spica is one of the brightest stars in the sky, only about 250 light-years away. It was found in 1890 that Spica is a binary star: two massive blue stars orbiting each other every 4 days. But earlier this year it was reported that Spica, the current companion of wandering Venus, is actually a triple system.Tomorrow's picture: what's next?						
+> _Last Updated: 11/12/2026, 04:24:00 PM (in )_
 <!-- APOD End -->
