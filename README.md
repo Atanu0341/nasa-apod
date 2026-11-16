@@ -1,8 +1,8 @@
 # My Awesome Project
 
 <!-- APOD Start -->
-2026-11-12: NASA Science
+2026-11-16: NASA Science
 ![NASA Science](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
-Not all those who wander are lost. A night sky example is that planets wander, and in fact the very word "planet" comes from "wandering star" in Greek. As planets shift relative to fixed stars, they may appear from our perspective to get closer to other astronomical objects. Such meetings are called conjunctions. They don't happen by chance, but follow the precise laws of celestial mechanics. This peaceful image, captured in Poland, shows the crescent Moon above the Tatra Mountains, and bright Venus close by, a little lower in the horizon. The bright star to the left of Venus is Spica in the constellation of Virgo, the Maiden. Spica is one of the brightest stars in the sky, only about 250 light-years away. It was found in 1890 that Spica is a binary star: two massive blue stars orbiting each other every 4 days. But earlier this year it was reported that Spica, the current companion of wandering Venus, is actually a triple system.Tomorrow's picture: what's next?						
-> _Last Updated: 11/12/2026, 04:24:00 PM (in )_
+How do stars form? To help answer this question, NASA used the James Webb Space Telescope to take the featured detailed image of the star-forming region NGC 7129 in infrared light. Star formation progresses when gravity pulls together massive amounts of gas, but soon things can get complicated when previously formed stars emit powerful jets and winds -- and some then explode. Opaque dust can form in the cool atmospheres of stars and, when dispersed, can obstruct visible-light images. Many stars can be seen to be forming in the featured image, with the young stars on the left, in the gold-colored gas, typically being more mature than the young stars on the right -- in the red region. Jets and winds likely cause the filamentary nature of the red-colored gas. Studying stars at different stages of development bolsters understanding about what physical processes are most important and when.Tomorrow's picture: sky duel						
+> _Last Updated: 11/16/2026, 05:36:28 PM (in )_
 <!-- APOD End -->
